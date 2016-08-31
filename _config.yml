@@ -57,7 +57,7 @@ repos:
   url: https://github.com/bcgov/agile-guide
 
 back_link:
-  url: "https://guides.pathfinder.bcgov"
+  url: "guides.pathfinder.bcgov"
   text: Read more BC Government Guides
 
 google_analytics_ua: UA-48605964-19
